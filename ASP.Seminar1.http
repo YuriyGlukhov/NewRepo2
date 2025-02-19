@@ -1,0 +1,6 @@
+@ASP.Seminar1_HostAddress = http://localhost:5190
+
+GET {{ASP.Seminar1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
